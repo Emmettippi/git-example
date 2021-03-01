@@ -1,3 +1,5 @@
 Il push "forza" l'aggiornamento di remoto con quelle che sono le mie modifiche confermate in locale sul branch corrente.
 
 Posso fare push solo se la mia repository è sincronizzata con origin
+
+Se ho creato un nuovo branch, devo usre l'opzione --set-upstream origin nome_branch per dirgli di creare in remoto un branch sincronizzato il mio in locale
