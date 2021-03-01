@@ -1,0 +1,3 @@
+Avvengono conflitti quando viene moficiato lo stesso file nello stesso punto.
+
+Lo sfortunato di turno deve mettersi lì e risolvere il conflitto con chi gli ha fatto le modifiche
