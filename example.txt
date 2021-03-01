@@ -5,3 +5,6 @@ Ciao sono la modifica all'esempio
 Ciao sono un'altra modifica
 
 Ciao sto per essere un conflitto
+Creo un conflitto
+
+Ho risolto il conflitto
