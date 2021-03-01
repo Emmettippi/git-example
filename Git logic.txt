@@ -1,0 +1,3 @@
+Quando tu fai un comando git che comporta delle modifiche, di norma stai sempre "tirndo giù" qualcosa
+
+Unica eccezione fatta per il push!!!
