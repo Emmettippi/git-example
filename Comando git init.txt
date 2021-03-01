@@ -1,0 +1,3 @@
+git init server per inizializzare una nuova repository
+
+da fare la prima volta e basta!!

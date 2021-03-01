@@ -1,0 +1,16 @@
+In git esistono 3 tipi di file
+- sporchi
+- preparati
+- non sporchi
+
+Non sporchi
+- file perfettamente sincronizzati con la mia repository in remoto
+
+Sporchi
+- file modificati rispetto a quelli della mia repository in remoto
+
+"Git add" rende uno o più file "preparati" per la sincronizzazione in remoto
+
+
+
+Per vedere quali sono i file nuovi o sporchi "git status"

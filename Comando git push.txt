@@ -1,0 +1,3 @@
+Il push "forza" l'aggiornamento di remoto con quelle che sono le mie modifiche confermate in locale.
+
+Posso fare push solo se la mia repository è sincronizzata con origin

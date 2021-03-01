@@ -1,0 +1,5 @@
+git commit conferma i file che ho preparato, e li rende "non sporchi"
+
+Operazione da fare SOLO quando si è sicuri delle modifiche fatte
+
+Ad ogni commit va associato un messaggio di commit, ovvero un messaggio dove scrivete in breve le modifiche apportate
