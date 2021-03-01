@@ -1,0 +1,8 @@
+git checkout serve per cambiare branch
+
+Se si vuole creare un nuovo branch bisogna utilizzare l'opzione "-b"
+
+
+git checkout nome_branch
+
+git checkout -b nome_nuovo_branch
